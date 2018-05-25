@@ -1,0 +1,451 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201802 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.vega.ck.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1990                
+POS_TIME 2656                
+POS_VISITOR 8514                
+POS_DAY 12162               
+POS_DOMAIN 3577                
+POS_LOGIN 3811                
+POS_ROBOT 3999                
+POS_WORMS 4319                
+POS_EMAILSENDER 4450                
+POS_EMAILRECEIVER 4593                
+POS_SESSION 12840               
+POS_SIDER 13029               
+POS_FILETYPES 4728                
+POS_DOWNLOADS 4985                
+POS_OS 5055                
+POS_BROWSER 5186                
+POS_SCREENSIZE 5737                
+POS_UNKNOWNREFERER 5811                
+POS_UNKNOWNREFERERBROWSER 6084                
+POS_ORIGIN 6251                
+POS_SEREFERRALS 6392                
+POS_PAGEREFS 6560                
+POS_SEARCHWORDS 6791                
+POS_KEYWORDS 6943                
+POS_MISC 2320                
+POS_ERRORS 7002                
+POS_CLUSTER 3667                
+POS_SIDER_404 7128                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180301000625 1171 211389 8325849240689
+FirstTime 0
+LastTime 20180228204135
+LastUpdate 20180301010001 1 0 0 0 0
+TotalVisits 107                 
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 89                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 34 566 522229308 42 315 2815431
+1 36 615 549851633 11 226 2256418
+2 8 88 50681320 5 212 7662621
+3 16 97 45643584 84 372 557130
+4 20 98 83902674 23 343 180363
+5 4 4 172110 10 223 23771739
+6 6 54 25686644 7 187 1447992
+7 62 843 743635650 4 190 24104554
+8 11 188 111643997 15 156 647477
+9 3 4 393120 20 242 3004090
+10 2 2 86055 6 164 3041089
+11 48 350 311498871 6 154 19635423
+12 26 362 315321076 10 205 34492008
+13 28 330 308945128 7 170 363704
+14 18 322 312240348 14 296 132746328
+15 8 108 102309153 7 194 102800
+16 24 378 353517896 7 166 1647556
+17 8 109 104088727 11 193 17843582
+18 32 518 477777148 6 190 19103195
+19 50 662 621289277 9 200 1635402
+20 28 390 366014303 43 320 18223600
+21 26 328 309264847 16 151 1384203
+22 24 367 373720641 4 161 25550964
+23 48 774 777319543 12 235 22234322
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 570 7557 6867233053
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+vegack 4 4 111176 20180207175845
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 348 260533962 20180225230114 30
+no_user_agent 299 1203477 20180222205738 0
+crawl 115 102312451 20180212044744 2
+unknown 2 390 20180217184629 2
+netcraft 2 154350 20180203013445 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 2 66136 0 0
+css 673 3190246 0 0
+png 476 334262864 0 0
+ttf 4 105658 0 0
+woff 130 6681720 0 0
+html 430 12683228 0 0
+js 897 4222614 0 0
+jpg 4931 6506000702 0 0
+xml 4 340 0 0
+gif 10 19545 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 34 0 6630
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 280
+linuxandroid 1023
+winxp 22
+winnt 5006
+Unknown 116
+linux 561
+winvista 81
+win7 468
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 27
+chrome63.0.3239.111 36
+safari10.0 254
+chrome64.0.3282.119 1
+chrome63.0.3239.132 314
+chrome41.0.2272.118 361
+firefox58.0 4766
+firefox54.0 2
+firefox49.0 113
+chrome62.0.3202.94 2
+chrome58.0.3029.110 215
+firefox47.0 4
+iphone 108
+chrome61.0.3163.100 22
+chrome53.0.2785.146 109
+chrome64.0.3282.167 1
+mozilla 8
+chrome42.0.2311.135 4
+msie10.0 24
+firefox51.0 4
+chrome61.0.3116.0 482
+opera9.24 22
+chrome60.0.3112.90 2
+Unknown 6
+safari 106
+chrome64.0.3282.137 377
+chrome62.0.3202.75 107
+chrome64.0.3282.140 107
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+2ip.ru_CMS_Detector_(https://2ip.ru/cms/) 20180212040027
+okhttp/3.3.0 20180224123456
+Apple-iPhone7C2 20180203143444
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180203032119
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+2ip.ru_CMS_Detector_(https://2ip.ru/cms/) 20180212040027
+okhttp/3.3.0 20180224123456
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 254 371
+From1 2 2
+From2 14 18
+From3 4 4
+From4 296 7162
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 12 16
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.liveinternet.ru 2 2
+http://forumua.org/privatemessage/view/7545624 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+401 2 1204
+403 144 189216
+444 4126 0
+404 220 52999
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 41
+/blog/wp-includes/wlwmanifest.xml 2 -
+/cms/kernel/admin.php 2 -
+/atilektcms/ 2 -
+/system/cms/ 2 -
+/vk.com 2 -
+/administrator/components/com_joomlaupdate/restore.php 2 -
+/manager/ 2 -
+/admin.php 2 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/netcat/ 2 -
+/downloader/ 2 -
+/login.php 2 -
+/wp-includes/wlwmanifest.xml 2 -
+/boatilekt/ 2 -
+/wp-admin/ 2 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/_include/img/progress.gif 120 http://vega.ck.ua/_include/css/supersized.css
+/xmlrpc.php 2 -
+/typo3/index.php 2 -
+/cgi-bin/mt/mt-check.cgi 2 -
+/login_form 2 -
+/google8dced6ece9df650e.html 2 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/_include/img/work/full/18.jpeg 10 http://vega.ck.ua/
+/administrator/index.php 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/common_js/common.js 4 -
+/core/admin.php 2 -
+/member/login/ 2 -
+/admin 2 -
+/_include/img/work/full/3.jpg 4 http://vega.ck.ua/
+/administrator/ 2 https://google.com
+/textpattern/ 2 -
+/bitrix/admin/ 2 -
+/js/ulib/common.js 4 -
+/wp-login.php 2 -
+///counter.yadro.ru/hit 6 -
+/admin/login/ 2 -
+/modx/manager/ 2 -
+/admin/ 4 -
+/engine/print.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 89
+91.244.36.73 50 884 864382421 20180208233453
+212.55.70.13 34 536 515001654 20180215214722
+91.244.28.244 28 460 419988738 20180212005856
+188.163.6.165 26 135 201624429 20180212114751
+109.227.97.144 22 427 421637395 20180217231646
+91.244.37.238 20 362 371691504 20180221115239
+78.137.36.141 20 317 287757793 20180211192840
+91.244.24.254 20 323 308614534 20180202133309
+13.56.229.65 20 20 860550 20180228024213
+212.55.70.110 16 297 249694863 20180212124610
+66.249.83.198 8 74 73969482 20180212070744
+95.213.204.115 2 2 0 20180212040009
+35.167.67.134 2 2 86055 20180221115114
+46.118.155.165 4 4 308728 20180219090001
+88.150.224.74 12 191 140959241 20180212014405
+37.73.129.178 12 92 104248723 20180223205319
+66.249.83.200 2 71 94173073 20180212070559
+109.227.107.12 6 107 104079729 20180203143246
+37.73.209.7 4 33 1966964 20180214113859
+91.244.28.212 6 106 102223098 20180221185607
+66.102.8.48 6 27 13877759 20180212070814
+54.174.58.18 0 5 14464169 
+78.137.17.147 2 118 77813454 20180202195045
+34.217.13.117 2 2 86055 20180221115136
+46.101.43.102 6 106 102223098 20180220235618
+212.55.83.135 4 52 25600589 20180212065234
+54.174.58.0 0 7 1707498 
+193.108.249.236 6 49 18406082 20180201191859
+34.217.176.84 2 2 86055 20180221115124
+54.174.58.144 4 17 16137218 20180203143420
+66.249.93.214 6 126 105489707 20180212070434
+34.216.235.65 2 2 86055 20180221115045
+66.249.89.46 0 6 18131 
+66.249.84.200 2 33 23561953 20180212070634
+178.63.151.224 14 14 771820 20180222205724
+85.140.18.104 6 37 5758350 20180212123315
+54.174.56.201 0 23 25656512 
+91.244.24.17 6 106 102223098 20180225125229
+34.211.73.224 2 2 86055 20180221115153
+31.31.106.216 0 1 480191 
+178.216.21.169 6 106 102223098 20180228204135
+54.174.56.93 0 13 9026565 
+162.243.21.164 2 2 0 20180212040010
+91.244.28.130 6 106 102223098 20180224232210
+91.219.103.117 0 1 480191 
+66.249.92.72 2 2 134 20180203032119
+185.41.192.129 10 189 187741983 20180212041508
+54.174.58.172 2 61 73759316 20180203143421
+78.137.26.79 8 111 104156148 20180224123456
+78.137.17.224 8 109 104088727 20180207175845
+54.174.56.56 2 23 18781916 20180203143421
+178.62.22.246 2 2 0 20180212040009
+66.249.93.213 8 112 81646239 20180212070625
+66.102.8.44 2 45 46054221 20180212070645
+52.10.11.119 4 4 172110 20180221115127
+66.249.89.48 0 1 1603 
+91.190.85.84 0 1 161567 
+109.73.77.18 4 84 50440901 20180212021755
+91.244.29.15 6 106 102223098 20180227151915
+91.244.28.40 6 106 102223098 20180219013740
+188.166.79.149 2 2 0 20180212040009
+40.77.181.156 4 4 340 20180223190629
+66.102.8.46 2 35 30544398 20180212070606
+78.137.19.53 2 36 7365988 20180203084033
+213.191.1.136 2 2 86055 20180228052045
+212.55.70.40 6 106 102223098 20180223010630
+66.249.93.212 4 123 160306139 20180212070624
+5.248.204.148 2 2 154364 20180219024001
+37.9.146.144 0 1 480191 
+217.115.98.133 6 107 104079728 20180228195033
+128.199.196.82 2 2 0 20180212040011
+37.204.52.249 4 24 250965 20180222162224
+54.174.55.84 2 24 17826738 20180203143419
+207.241.225.246 2 2 86055 20180212041024
+13.230.250.146 2 2 86055 20180218182021
+54.174.56.85 2 23 12302192 20180203143420
+88.212.196.67 4 6 310128 20180221114249
+46.101.150.160 2 2 0 20180212040009
+37.73.142.239 14 116 104412877 20180212133124
+66.249.84.196 2 37 37554074 20180212070603
+88.99.97.146 6 106 102172261 20180212004342
+54.174.56.62 0 19 18498495 
+66.249.89.44 6 41 469163 20180212070629
+54.201.84.97 2 2 86055 20180221115033
+192.162.242.169 8 151 104200834 20180203082605
+213.110.122.11 0 1 480191 
+109.122.23.164 6 107 104080125 20180223002307
+66.249.84.198 6 45 43148688 20180212070836
+66.249.83.196 8 67 32821020 20180212070736
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20180201 22 268 224883573 4
+20180202 8 224 180036552 2
+20180203 42 560 521189526 10
+20180207 22 323 308620978 3
+20180208 38 673 660416416 3
+20180209 2 2 86055 1
+20180211 44 644 598467918 5
+20180212 182 2165 1824882165 33
+20180213 2 2 86055 1
+20180214 18 249 208836433 3
+20180215 22 324 308774113 4
+20180216 10 192 159474173 2
+20180217 14 237 262249277 2
+20180218 2 2 86055 1
+20180219 14 114 102772245 4
+20180220 14 256 269468406 2
+20180221 36 337 307512798 11
+20180222 8 29 971575 3
+20180223 26 307 310552116 4
+20180224 14 217 206379246 2
+20180225 8 108 102309153 2
+20180227 6 107 102703289 1
+20180228 16 217 206474936 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 4
+30s-2mn 9
+0s-30s 86
+2mn-5mn 5
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 292 12558652 94 56
+/_include/js/twitter/ 132 13266 5 28
+/_include/css/fonts/Icons.woff 130 6681720 4 16
+/BingSiteAuth.xml 4 340 2 2
+/_include/css/fonts/Icons.ttf 4 105658 0 2
+/webstat/awstats.vega.ck.ua.keyphrases.122017.html 2 6998 0 1
+/google1e5a5abedba58995.html 2 134 1 1
+/webstat/index.122017.html 2 104178 1 0
+/_include/css/fonts/Icons.eot 2 66136 0 1
+END_SIDER

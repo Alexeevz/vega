@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+Disallow: /images/
+Disallow: /admin/
+Host: Vega.ck.ua
+Host: www.Vega.ck.ua
+
+Sitemap: http://Vega.ck.ua/sitemap.xml

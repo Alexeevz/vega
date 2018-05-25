@@ -1,0 +1,368 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201712 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.vega.ck.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1990                
+POS_TIME 2668                
+POS_VISITOR 7981                
+POS_DAY 9666                
+POS_DOMAIN 3572                
+POS_LOGIN 3806                
+POS_ROBOT 3996                
+POS_WORMS 4255                
+POS_EMAILSENDER 4386                
+POS_EMAILRECEIVER 4529                
+POS_SESSION 10325               
+POS_SIDER 10525               
+POS_FILETYPES 4664                
+POS_DOWNLOADS 4917                
+POS_OS 4965                
+POS_BROWSER 5090                
+POS_SCREENSIZE 5585                
+POS_UNKNOWNREFERER 5659                
+POS_UNKNOWNREFERERBROWSER 5746                
+POS_ORIGIN 5828                
+POS_SEREFERRALS 5970                
+POS_PAGEREFS 6137                
+POS_SEARCHWORDS 6986                
+POS_KEYWORDS 7138                
+POS_MISC 2332                
+POS_ERRORS 7197                
+POS_CLUSTER 3662                
+POS_SIDER_404 7316                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180101062148 203 35897 10187214728055
+FirstTime 20171209051938
+LastTime 20171231235812
+LastUpdate 20180101070001 1 0 0 0 0
+TotalVisits 61                  
+TotalUnique 29                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 43                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 106 102221641 12 80 11665444
+1 10 10 279831 20 155 28566650
+2 8 108 102306239 14 131 8062417
+3 4 4 84768 24 112 18313039
+4 20 187 137330799 13 110 12765704
+5 10 80 116649486 17 126 6807348
+6 4 26 341589 16 117 725883
+7 2 3 313449 10 107 12235383
+8 12 133 102391038 22 90 12972213
+9 0 0 0 18 125 11412502
+10 8 155 116811379 14 122 7216082
+11 22 377 318651690 18 124 11685575
+12 38 345 311463080 8 100 1233594
+13 28 353 271661633 17 131 1156263
+14 24 425 409443058 15 97 5078610
+15 0 0 0 10 110 25287378
+16 12 125 114759825 25 121 2893032
+17 24 434 296397100 13 125 1079886
+18 36 587 564613973 22 161 1119287
+19 18 178 147086576 26 150 2027431
+20 42 468 404422247 14 144 17106348
+21 12 194 144914535 10 114 424060
+22 52 440 380874826 10 91 426222
+23 4 5 222779 12 137 508131
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 396 4743 4043241541
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+vegack 30 30 369286 20171210170955
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 542 189140507 20171231200446 0
+bot[\s_+:,\.\;\/\\-] 12 11224355 20171213160502 0
+cfnetwork 9 339106 20171218080427 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 379 1737344 0 0
+png 361 202606146 0 0
+ttf 4 105894 0 0
+woff 76 3907606 0 0
+php 2 146 0 0
+html 308 7839418 0 0
+jpg 3065 3824604009 0 0
+xml 6 510 0 0
+js 526 2409196 0 0
+gif 16 31272 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 365
+unix 99
+winnt 3662
+linux 85
+winvista 47
+win7 266
+macosx 28
+win16 191
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+firefox57.0 3179
+chrome52.0.2743.116 430
+chrome63.0.3239.111 2
+android 123
+chrome55.0.2883.91 1
+safari10.0 2
+chrome41.0.2272.118 85
+chrome56.0.2924.87 122
+chrome62.0.3202.94 55
+chrome51.0.2704.79 1
+chrome63.0.3239.84 352
+chrome61.0.3163.100 126
+chrome62.0.3202.84 116
+chrome45.0.2454.94 1
+mozilla 31
+chrome45.0.2454.101 4
+netscape5.0 3
+chrome42.0.2311.135 6
+msie7.0 1
+msie10.0 1
+chrome62.0.3202.97 99
+chrome60.0.3112.101 2
+chrome62.0.3202.89 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 150 163
+From1 0 0
+From2 6 18
+From3 14 14
+From4 226 4548
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 4 11
+yandex 2 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://forumua.org/forum/%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%91%D0%BC-%D0%BC%D0%B5%D0%BD%D1%8F%D0%B5%D0%BC/%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0-%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%86%D0%B8%D1%8F/6832976-%D0%B8%D0%B7%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%B0%D0%B3%D0%B5%D1%82%D0%BE%D0%B2-%D0%B8-%D0%BC%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2-%D0%B8%D0%B7-%D0%B3%D0%B8%D0%BF%D1%81%D0%B0-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80-%D1%81%D1%82%D0%B5%D0%BD 10 10
+https://eto.my.salesforce.com 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+401 5 3010
+499 1 0
+444 2067 0
+404 232 61504
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 9
+/_include/img/work/full/3.jpg 32 http://vega.ck.ua/
+/apple-touch-icon-precomposed.png 2 -
+/robots.txt 68 -
+/apple-touch-icon.png 2 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/_include/img/work/full/18.jpeg 30 http://vega.ck.ua/
+/_include/img/progress.gif 92 http://vega.ck.ua/_include/css/supersized.css
+/apple-touch-icon-120x120.png 2 -
+/ads.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 43
+109.122.51.99 70 1148 1133683612 20171215223106
+78.137.16.58 50 241 108003276 20171210170955
+109.122.30.152 44 769 701466192 20171222025323
+109.122.19.184 32 563 558116347 20171229195437
+109.122.23.42 32 356 301945948 20171224202440
+13.56.229.65 22 22 930830 20171231235812
+178.93.127.10 18 122 104702068 20171220123102
+109.122.55.145 18 318 306664923 20171225102417
+185.3.151.143 16 122 104496456 20171213042912
+109.50.174.129 10 128 118414113 20171210180705
+109.122.22.14 6 106 102225487 20171209182210
+66.102.6.112 0 31 40912418 
+104.45.18.178 2 3 152610 20171210162344
+176.67.25.136 2 2 84598 20171218080426
+95.24.4.177 0 1 161567 
+185.41.193.3 4 25 84799 20171217085511
+5.58.210.221 0 1 480191 
+37.145.15.219 0 1 556494 
+104.132.56.72 8 99 82315273 20171213174638
+2.92.35.126 4 104 28791735 20171219170043
+40.77.178.52 4 25 157051 20171209063334
+78.137.38.89 2 2 84598 20171214202401
+128.72.222.77 0 1 161567 
+212.87.168.23 0 2 107166 
+40.77.181.156 6 6 510 20171226195043
+66.117.8.42 2 2 151882 20171230075214
+109.122.52.223 6 106 102221641 20171230180224
+193.0.240.44 6 106 30682837 20171214115725
+176.15.194.186 0 1 427341 
+91.236.248.106 0 1 53583 
+66.102.6.110 2 22 11979445 20171213174424
+78.106.92.226 0 1 627829 
+109.122.59.228 6 51 20154259 20171211133737
+37.215.79.126 0 1 53583 
+66.102.6.108 0 32 28208916 
+88.212.196.67 4 6 305192 20171220121334
+66.102.9.144 0 1 53583 
+78.137.20.106 6 107 104078271 20171229223507
+46.211.116.134 2 2 84598 20171222130835
+37.73.227.235 6 64 41616765 20171224194307
+94.180.166.221 0 1 184538 
+46.148.181.159 0 1 3105410 
+37.52.170.118 6 40 4552039 20171231134926
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20171209 48 224 106170886 5
+20171210 26 281 222866501 5
+20171211 12 59 20818964 4
+20171212 24 426 409604625 1
+20171213 36 462 412646202 5
+20171214 32 434 342649319 4
+20171215 16 249 271694197 3
+20171216 0 1 480191 0
+20171217 6 27 169397 2
+20171218 2 2 84598 1
+20171219 16 259 180128633 4
+20171220 32 318 249141370 3
+20171221 20 322 303951880 3
+20171222 8 109 102934068 2
+20171223 2 2 84598 1
+20171224 52 634 548090593 5
+20171225 6 106 102221641 1
+20171226 2 4 107336 1
+20171227 6 106 102221641 1
+20171228 6 106 102221641 1
+20171229 28 460 457835934 5
+20171230 8 110 102480689 2
+20171231 8 42 4636637 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 3
+0s-30s 48
+15mn-30mn 2
+30s-2mn 3
+2mn-5mn 3
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 172 7460484 53 22
+/_include/js/twitter/ 106 9648 0 15
+/_include/css/fonts/Icons.woff 76 3907606 0 16
+/BingSiteAuth.xml 6 510 3 3
+/webstat/ 6 15965 2 1
+/webstat/index.122017.html 6 283291 1 1
+/webstat/awstats.vega.ck.ua.refererse.122017.html 4 14174 0 1
+/_include/css/fonts/Icons.ttf 4 105894 1 0
+/webstat/awstats.vega.ck.ua.errors404.122017.html 2 7157 0 0
+/webstat/awstats.vega.ck.ua.lasthosts.122017.html 2 7750 0 0
+/webstat/awstats.vega.ck.ua.urldetail.122017.html 2 9660 0 0
+/webstat/awstats.vega.ck.ua.keyphrases.122017.html 2 6991 0 0
+/webstat/awstats.vega.ck.ua.alldomains.122017.html 2 8048 0 0
+/webstat/awstats.vega.ck.ua.allrobots.122017.html 2 7595 0 1
+/_include/php/contact.php 2 146 1 1
+/webstat/awstats.vega.ck.ua.browserdetail.122017.html 2 8655 0 0
+END_SIDER
